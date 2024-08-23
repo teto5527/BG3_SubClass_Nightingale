@@ -1,6 +1,17 @@
-new entry “Passive_Skilful_Critical”
+new entry “Passive_Aimed_Critical”
 type “PassiveData”
 data "DisplayName" "h01a62476g5445g450cgb218g194786305f79;1"
 data "Description" "hd93b6c6ag0d00g4cfcgb543g1277d7f2c9e6;1"
-data "Icon" "PassiveFeature_ThirstingBlade"
+data "Icon" "PassiveFeature_ImprovedCritical"
 data "Properties" "HighLighted"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "ReduceCriticalAttackThreshold(1)"
+
+new entry “Passive_Deadly_Critical”
+type “PassiveData”
+data "DisplayName" "h4f9954c8g1057g4b07gaf02g425a1a89fe2b;1"
+data "Description" "h73ed43b6gec11g4724g95efg0fdc80a1aeb2;1"
+data "Icon" "PassiveFeature_ImprovedCritical"
+data "Properties" "HighLighted"
+data "BoostConditions" "not WearingArmor(context.Source)"
+data "Boosts" "CriticalHitExtraDice(1,MeleeWeaponAttack);CriticalHitExtraDice(1,RangeWeaponAttack)"

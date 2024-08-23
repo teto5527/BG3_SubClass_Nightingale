@@ -29,6 +29,18 @@
                         </node>
                     </children>
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery, FightingStyle_Dueling"/>
+                    <attribute id="UUID" type="guid" value="452a6a11-8578-4d4d-93fa-549c484286f2"/>
+                </node>
+                <node id="Progression">
+                    <attribute id="Level" type="unit8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Nightingale"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Initiative(3); SelectPassives(452a6a11-8578-4d4d-93fa-549c484286f2,1,FightingStyle); SuperiorDarkvision"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="cdd20e6d-8dd2-47f8-bc9f-4a64fcd9debe"/>
+                    <attribute id="UUID" type="guid" value="de99d858-5ec4-4aed-8fa6-9a6d3ea63792"/>
+                </node>
             </children>
         </node>
     </region>
