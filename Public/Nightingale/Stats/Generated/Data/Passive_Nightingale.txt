@@ -1,0 +1,6 @@
+new entry “Passive_Skilful_Critical”
+type “PassiveData”
+data "DisplayName" "h01a62476g5445g450cgb218g194786305f79;1"
+data "Description" "hd93b6c6ag0d00g4cfcgb543g1277d7f2c9e6;1"
+data "Icon" "PassiveFeature_ThirstingBlade"
+data "Properties" "HighLighted"
