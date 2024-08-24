@@ -1,0 +1,1 @@
+add spell "Shout_UmbralFury"
