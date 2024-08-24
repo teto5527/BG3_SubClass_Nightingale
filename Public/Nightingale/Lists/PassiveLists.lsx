@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Dueling"/>
+                    <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Dueling,FightingStyle_TwoWeaponFighting"/>
                     <attribute id="UUID" type="guid" value="452a6a11-8578-4d4d-93fa-549c484286f2"/>
                 </node>
             </children>
