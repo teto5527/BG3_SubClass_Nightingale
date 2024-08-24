@@ -33,7 +33,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Nightingale"/>
-                    <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;MAG_InitiativeBonus_2_Passive"/>
+                    <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;Passive_Shadow_Instinct"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(452a6a11-8578-4d4d-93fa-549c484286f2,1,FightingStyle)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="cdd20e6d-8dd2-47f8-bc9f-4a64fcd9debe"/>
@@ -42,7 +42,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="6"/>
                     <attribute id="Name" type="LSString" value="Nightingale"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_Aimed_Critical"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Aimed_Critical;Passive_Umbral_Form_Unlock"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="cdd20e6d-8dd2-47f8-bc9f-4a64fcd9debe"/>
                     <attribute id="UUID" type="guid" value="1ea6be6b-be3f-44b8-9cae-297653fc297d"/>
