@@ -33,6 +33,7 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Nightingale"/>
+                    <attribute id="Boosts" type="LSString" value="Proficiency(MusicalInstrument);Proficiency(LightCrossbows);Proficiency(HeavyCrossbows)"/>
                     <attribute id="PassivesAdded" type="LSString" value="SuperiorDarkvision;Passive_Shadow_Instinct"/>
                     <attribute id="Selectors" type="LSString" value="SelectPassives(452a6a11-8578-4d4d-93fa-549c484286f2,1,FightingStyle)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
