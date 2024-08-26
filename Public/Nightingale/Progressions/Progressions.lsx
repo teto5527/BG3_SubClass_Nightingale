@@ -41,7 +41,7 @@
                     <attribute id="UUID" type="guid" value="de99d858-5ec4-4aed-8fa6-9a6d3ea63792"/>
                 </node>
                 <node id="Progression">
-                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Nightingale"/>
                     <attribute id="PassivesAdded" type="LSString" value="Passive_Aimed_Critical;Passive_Umbral_Form_Unlock"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
