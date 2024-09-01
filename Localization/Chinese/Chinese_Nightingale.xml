@@ -5,7 +5,7 @@
     <content contentuid="hf81a9942g3ed6g46eeg882cg221c305a7bac" version="1">阴影直觉</content>
     <content contentuid="hab2fd2c7g36edg458fg84d6g090dec98edf3" version="1">你的先攻获得一个+3的加值，同时在察觉鉴定上获得优势。</content>
     <content contentuid="h01a62476g5445g450cgb218g194786305f79" version="1">瞄准重击</content>
-    <content contentuid="hd93b6c6ag0d00g4cfcgb543g1277d7f2c9e6" version="1">如果没有穿重甲，重击所需要的攻击投掷-1。</content>
+    <content contentuid="hd93b6c6ag0d00g4cfcgb543g1277d7f2c9e6" version="1">如果没有穿重甲，重击所需要的攻击投掷-[1],根据你的感知&lt;LSTag Tooltip="AbilityModifier"&gt;调整值&lt;/LSTag&gt;。</content>
     <content contentuid="h4f7e3e39ga15eg4816g8fc8g3e578652162d" version="1">致命重击</content>
     <content contentuid="h2493b606gcba4g4c21ga546g7a022a41f531" version="1">如果没有穿重甲时造成重击，增加一个伤害骰子。</content>
     <content contentuid="h110867f7gd69bg4d81gbec0gca99e7215fa1" version="1">转变为 &lt;LSTag Type="Status" Tooltip="SHA_JUSTICIAR_UMBRAL_FORM"&gt;阴影形态&lt;/LSTag&gt;。</content>

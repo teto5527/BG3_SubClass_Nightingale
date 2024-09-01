@@ -5,7 +5,7 @@
     <content contentuid="hf81a9942g3ed6g46eeg882cg221c305a7bac" version="1">Shadow Instinct</content>
     <content contentuid="hab2fd2c7g36edg458fg84d6g090dec98edf3" version="1">Your initiative gains a +3 bonus, and you have advantage on Perception checks.</content>
     <content contentuid="h01a62476g5445g450cgb218g194786305f79" version="1">Aimed Critical</content>
-    <content contentuid="hd93b6c6ag0d00g4cfcgb543g1277d7f2c9e6" version="1">If not wearing heavy armor, the attack roll required for a critical hit is reduced by 1.</content>
+    <content contentuid="hd93b6c6ag0d00g4cfcgb543g1277d7f2c9e6" version="1">If not wearing heavy armor, the attack roll required for a critical hit is reduced by [1], based on your Wisdom &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
     <content contentuid="h4f7e3e39ga15eg4816g8fc8g3e578652162d" version="1">Deadly Critical</content>
     <content contentuid="h2493b606gcba4g4c21ga546g7a022a41f531" version="1">If a critical hit is landed while not wearing heavy armor, weapon attack add one additional damage dice.</content>
     <content contentuid="h110867f7gd69bg4d81gbec0gca99e7215fa1" version="1">Switch to &lt;LSTag Type="Status" Tooltip="SHA_JUSTICIAR_UMBRAL_FORM"&gt;Umbral Form&lt;/LSTag&gt;.</content>
