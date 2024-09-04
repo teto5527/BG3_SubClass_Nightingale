@@ -8,6 +8,10 @@
                     <attribute id="Passives" type="LSString" value="FightingStyle_Archery,FightingStyle_Dueling,FightingStyle_TwoWeaponFighting"/>
                     <attribute id="UUID" type="guid" value="452a6a11-8578-4d4d-93fa-549c484286f2"/>
                 </node>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Passive_DeadlyCritical_Melee,Passive_DeadlyCritical_Ranged"/>
+                    <attribute id="UUID" type="guid" value="9da09e52-6604-46aa-a9f9-91d307afbe9f"/>
+                </node>
             </children>
         </node>
     </region>

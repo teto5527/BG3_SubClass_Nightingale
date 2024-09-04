@@ -11,6 +11,13 @@
                     <attribute id="ProgressionTableId" type="guid" value="cdd20e6d-8dd2-47f8-bc9f-4a64fcd9debe"/>
                     <attribute id="UUID" type="guid" value="c4b12588-cd33-4080-81b3-459c3ae481e0"/>
                 </node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="hd1239d6bg1ce4g4d51gbdffg9aa356d24b23" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h40ec9d58g2ab1g44f9g97b8g3b38d295e755" version="1"/>
+                    <attribute id="SelectorId" type="FixedString" value="DeadlyCritical"/>
+                    <attribute id="ProgressionTableId" type="guid" value="cdd20e6d-8dd2-47f8-bc9f-4a64fcd9debe"/>
+                    <attribute id="UUID" type="guid" value="d7accdd1-27ef-43fe-8c73-1771b2201655"/>
+                </node>
             </children>
         </node>
     </region>

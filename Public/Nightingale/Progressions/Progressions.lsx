@@ -51,7 +51,8 @@
                 <node id="Progression">
                     <attribute id="Level" type="uint8" value="9"/>
                     <attribute id="Name" type="LSString" value="Nightingale"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_Deadly_Critical;LOW_HouseOfGrief_Cultists_Melee"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Shadow_Ambush"/>
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(9da09e52-6604-46aa-a9f9-91d307afbe9f,1,DeadlyCritical)"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="TableUUID" type="guid" value="cdd20e6d-8dd2-47f8-bc9f-4a64fcd9debe"/>
                     <attribute id="UUID" type="guid" value="4bbe0d05-5b96-42c0-a1b6-99e1ba36da16"/>
